@@ -50,8 +50,6 @@ npm install
 npm start
 ```
 
-> Modify commands if using Vite, React, or another framework.
-
 ---
 
 ## Usage
